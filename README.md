@@ -1,8 +1,6 @@
-# Fortis Games QA Challenge
+# Fortis Games QA Exercise
 
-This project was developed using **Java + Selenium + TestNG**, applying the **Page Object Model (POM)** design pattern to ensure better **organization**, **maintainability**, and **reusability** of the main methods across the test suite.
-
-This repository contains an **automated test suite** developed to validate the functionality of the [Random Calendar Date Generator](https://www.random.org/calendar-dates/) website as part of the Fortis Games coding exercise.
+This project was developed using **Java + Selenium + TestNG**, applying the **Page Object Model (POM)** design pattern to ensure better **organization**, **maintainability**, and **reusability** of the main methods across the test suite, the repository contains an **automated test suite** developed to validate some functionalities of the [Random Calendar Date Generator](https://www.random.org/calendar-dates/) website as part of the Fortis Games coding exercise.
 
 **Note:** Questions 1 and 2 (non-coding) are answered in a separate file at the project root: **Q1+Q2.pdf**
 
@@ -15,7 +13,7 @@ This repository contains an **automated test suite** developed to validate the f
 - **Assertions:** TestNG Assertions
 - **Browser:** Chrome (via ChromeDriver)
 
-<br/><br/>
+
 
 ### 1️⃣ Run from the Terminal (Recommended)
 
@@ -35,7 +33,7 @@ This repository contains an **automated test suite** developed to validate the f
 3. Right-click on the class name CalendarGetDatesTest.
 4. Select "Run 'CalendarGetDatesTest'".
 5. IntelliJ will compile the project and execute the tests automatically.
-   <br/><br/>
+ 
 
 ##  Implemented Validations
 
@@ -47,7 +45,7 @@ This repository contains an **automated test suite** developed to validate the f
 | `validateGeneratedDatesWithinRange` | Validates that dates are **within the allowed range**. |
 
 
-<br/><br/>
+
 ## Project Structure
 ```bash
 fortis-challenge-java/
