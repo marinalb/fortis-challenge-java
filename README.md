@@ -1,4 +1,4 @@
-# Fortis Games QA Automation Challenge
+# Fortis Games QA Challenge
 
 This project was developed using **Java + Selenium + TestNG**, applying the **Page Object Model (POM)** design pattern to ensure better **organization**, **maintainability**, and **reusability** of the main methods across the test suite.
 
